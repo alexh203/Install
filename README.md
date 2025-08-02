@@ -11,6 +11,6 @@ A simple and customizable installation script for setting up your development en
 Clone the repository and run the script:
 
 ```bash
-git clone git@github.com:alexh203/Install_new.git
+git clone https://github.com/alexh203/Install_new.git
 cd Install_new
 ./install.sh
