@@ -8,12 +8,12 @@ fi
 PROGRAMS=(
     vim
     git
-    github_cli
+    github-cli
     firefox
     htop
     tmux
     alacritty
-    cat
+    bat
 )
 
 echo "Updating repos..."
