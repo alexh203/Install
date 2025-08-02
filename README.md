@@ -1,4 +1,4 @@
-# Install_new
+# Install
 
 A simple and customizable installation script for setting up linux.
 
@@ -12,6 +12,6 @@ A simple and customizable installation script for setting up linux.
 Clone the repository and run the script:
 
 ```bash
-git clone https://github.com/alexh203/Install_new.git
-cd Install_new
+git clone https://github.com/alexh203/Install.git
+cd Install
 ./install.sh
