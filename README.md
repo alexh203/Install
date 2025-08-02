@@ -1,10 +1,11 @@
 # Install_new
 
-A simple and customizable installation script for setting up your development environment quickly.
+A simple and customizable installation script for setting up linux.
 
 ## 🚀 Features
 
 - Installs essential packages
+- Currently only works on Arch Linux
 
 ## 📥 Installation
 
