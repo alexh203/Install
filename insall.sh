@@ -8,6 +8,7 @@ fi
 PROGRAMS=(
     vim
     git
+    github_cli
     firefox
     htop
     tmux
